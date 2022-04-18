@@ -1,0 +1,6 @@
+{
+    "require": {
+        "moontoast/math": "^1.1",
+        "ramsey/uuid": "^3.7"
+    }
+}
